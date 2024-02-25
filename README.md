@@ -17,8 +17,8 @@ visualization, and more.
 3. Each script can be executed independently by running it in a Python environment. 
 4. Ensure that the necessary libraries (Pandas, NumPy, Matplotlib, Seaborn) are installed. 
 5. Open the desired script file and execute it using a Python interpreter or an integrated development environment (IDE)
-like Jupyter Notebook or Colaboratory. Alternatively, you can open PP3_Pandas_Completed.ipynb where all 10 sections are 
-included for easy execution and exploration. Additionally, you can open PP3_Pandas.ipynb and complete the project 
+like Jupyter Notebook or Colaboratory. Alternatively, you can open `PP3_Pandas_Completed.ipynb` where all 10 sections are 
+included for easy execution and exploration. Additionally, you can open `PP3_Pandas.ipynb` and complete the project 
 exercises by yourself.
 
 ## Sections
