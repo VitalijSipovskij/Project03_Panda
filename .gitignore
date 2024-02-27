@@ -15,5 +15,5 @@ __pycache__/
 /lib64/
 /dist/
 
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints/
+# Jupyter Notebook and Colaboratory file
+*.ipynb

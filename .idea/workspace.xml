@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6496272f-c5a2-4713-8c40-325bedf0c21f" name="Changes" comment="" />
+    <list default="true" id="6496272f-c5a2-4713-8c40-325bedf0c21f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,35 +34,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Section_10_Deleting.executor": "Run",
-    "Python.Section_2.executor": "Run",
-    "Python.Section_3_Grouping.executor": "Run",
-    "Python.Section_4_Apply.executor": "Run",
-    "Python.Section_5_Merge.executor": "Run",
-    "Python.Section_6_Stats.executor": "Run",
-    "Python.Section_7_Visualization.executor": "Run",
-    "Python.Section_8_Creating_Series_and_DataFrames.executor": "Run",
-    "Python.Section_9_Time_Series.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.python Section_1_Cleaning.py.executor": "Run",
-    "Python.python Section_1_Getting_and_knowing_your_data.py.executor": "Run",
-    "Python.python Section_2_Filtering_and_Sorting.py.executor": "Run",
-    "Python.python Section_4_Apply.py.executor": "Run",
-    "Python.python Section_8_Creating_Series_and_DataFrames.py.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/User/Desktop/Projects/CAAI/Project03_Panda",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Section_10_Deleting.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Section_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Section_3_Grouping.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Section_4_Apply.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Section_5_Merge.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Section_6_Stats.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Section_7_Visualization.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Section_8_Creating_Series_and_DataFrames.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Section_9_Time_Series.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python Section_1_Cleaning.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python Section_1_Getting_and_knowing_your_data.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python Section_2_Filtering_and_Sorting.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python Section_4_Apply.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.python Section_8_Creating_Series_and_DataFrames.py.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Desktop/Projects/CAAI/Project03_Panda&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   },
-  "keyToStringList": {
-    "stardust.markdown.MarkdownSplitEditorSuppressor:keyList": [
+  &quot;keyToStringList&quot;: {
+    &quot;stardust.markdown.MarkdownSplitEditorSuppressor:keyList&quot;: [
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\User\Desktop\Projects\CAAI\Project03_Panda" />
@@ -69,7 +71,7 @@
       <recent name="C:\Users\User\Desktop\Projects\CAAI\Project03_Panda" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.python Section_1_Getting_and_knowing_your_data.py">
+  <component name="RunManager" selected="Python.Section_10_Deleting">
     <configuration name="Section_10_Deleting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Project03_Pandas" />
       <option name="ENV_FILES" value="" />
@@ -204,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Section_10_Deleting" />
         <item itemvalue="Python.python Section_1_Getting_and_knowing_your_data.py" />
         <item itemvalue="Python.python Section_8_Creating_Series_and_DataFrames.py" />
         <item itemvalue="Python.python Section_1_Getting_and_knowing_your_data.py" />
         <item itemvalue="Python.python Section_2_Filtering_and_Sorting.py" />
-        <item itemvalue="Python.python Section_4_Apply.py" />
       </list>
     </recent_temporary>
   </component>
